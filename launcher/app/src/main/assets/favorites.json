@@ -1,0 +1,8 @@
+[
+  {"label": "SongHub",          "match": ["songhub"]},
+  {"label": "Reezn",            "match": ["reezn"]},
+  {"label": "Send Files to TV", "match": ["sendfilestotv", "yablio", "send files"]},
+  {"label": "File Manager",     "match": ["filemanager", "fileexplorer", "file manager", "nbu.files", "documentsui"]},
+  {"label": "YouTube",          "match": ["com.google.android.youtube.tv", "youtube"]},
+  {"label": "Play Store",       "match": ["com.android.vending", "play store"]}
+]
